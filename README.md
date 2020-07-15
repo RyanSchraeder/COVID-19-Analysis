@@ -10,7 +10,7 @@ Using predictive modeling, let's answer this question!
 
 Contents : 
 - [Data Retrieval & Time Series Analysis of Confirmed Cases, Active Cases, Recoveries, and Deaths. (Jupyter Notebook)](https://github.com/RyanSchraeder/COVID-19-Analysis/blob/master/exploratory_data_analysis.ipynb)
-- Dataset 
+- [Datasets](https://github.com/RyanSchraeder/COVID-19-Analysis/tree/master/Datasets)
 - Forecast Analysis 
 - Classifier & Training, Predictive Model 
 
