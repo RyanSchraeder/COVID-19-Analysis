@@ -4,7 +4,7 @@
 
 In this project, I explore data from the Johns Hopkins Center for Systems Science and Engineering (CSSE) Data Repository and create a forecast for COVID-19 activity. 
 
-Are our efforts to flatten the curve working? Will there be another peak of virus in the Winter season? 
+Are our efforts to flatten the curve working?  
 
 Using predictive modeling, let's answer this question!
 
