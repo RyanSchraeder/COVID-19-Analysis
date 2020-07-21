@@ -11,8 +11,7 @@ Using predictive modeling, let's answer this question!
 Contents : 
 - [Data Retrieval & Time Series Analysis of Confirmed Cases, Active Cases, Recoveries, and Deaths. (Jupyter Notebook)](https://github.com/RyanSchraeder/COVID-19-Analysis/blob/master/pt1_ETL_&_EDA.ipynb)
 - [Datasets](https://github.com/RyanSchraeder/COVID-19-Analysis/tree/master/Datasets)
-- Forecast Analysis 
-- Classifier & Training, Predictive Model 
+- [ML, Predictive Model](https://github.com/RyanSchraeder/COVID-19-Analysis/blob/master/prediction_model.ipynb)
 
 Datasets Used: 
 + [Johns Hopkins CCSE Novel 2019 Coronavirus Data](https://github.com/CSSEGISandData/COVID-19)
