@@ -1,4 +1,4 @@
-# COVID-19 Exploratory Data Analysis & Predictive Analytics Project
+# COVID-19 Predictive Analytics Project
 
 ![https://cdn.the-scientist.com/assets/articleNo/67088/aImg/35881/cov-l.jpg](https://cdn.the-scientist.com/assets/articleNo/67088/aImg/35881/cov-l.jpg)
 
